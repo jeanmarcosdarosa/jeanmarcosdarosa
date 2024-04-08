@@ -2,6 +2,11 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanmarcosdarosa&layout=compact&theme=tokyonight" alt="Steeve Github Stats">
+</p>
+<br/>
+
 ```python
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
