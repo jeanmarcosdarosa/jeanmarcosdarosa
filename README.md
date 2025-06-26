@@ -32,3 +32,4 @@ me.say_hi()
 - Digital Signiture: https://assinaturavalida.com.br/
 - Domain Seller and Vlog Builder: https://my.tube/
 - Real Estate Check App: https://appdevistorias.com.br/
+- Uptime Monitor: https://statusserver.online/
